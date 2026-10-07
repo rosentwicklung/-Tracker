@@ -1,0 +1,21 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Runtime data & logs
+data/
+logs/
+
+# macOS & IDE metadata
+.DS_Store
+Thumbs.db
+.local/
+Library/
+*.user
+*.suo
+.vs/
+.vscode/
+
+# Ignore README as requested
+README.md
+BudgetTracker/README.md
